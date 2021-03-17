@@ -1,0 +1,279 @@
+{
+  'status': 'ok',
+  'totalResults': 21,
+  'articles': [
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Марк Львов',
+      'title': 'Раскрыта конструкция складного смартфона Xiaomi',
+      'description': 'Новый флагманский смартфон Xiaomi будет состоять из двух частей. Согласно раскрытым данным, основная панель гаджета будет иметь диагональ 8,03 дюйма в открытом состоянии, дополнительная — 6,38 дюйма. Судя по всему, модель получит название Xiaomi\xa0Mi\xa0Mix\xa04\xa0Pro\xa0…',
+      'url': 'https://lenta.ru/news/2021/03/12/xiaomifold/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/03/11/12/20210311124512686/share_88956e18e2272eafa8944a5c90b7df78.jpg',
+      'publishedAt': '2021-03-12T10:01:29Z',
+      'content': 'Xiaomi . TechRadar .\r\n , , . , . Samsung\xa0Galaxy\xa0Z\xa0Fold\xa02 Huawei\xa0Mate\xa0X2, .\r\n , 8,03 , 6,38 . , Xiaomi Samsung. , Galaxy\xa0Z\xa0Fold\xa02 7,6- 6,23- . , .\r\n , Xiaomi\xa0Mi\xa0Mix\xa04\xa0Pro\xa0Max. , Mi\xa0Mix. , Xiaomi\xa0Mi\xa0Mi… [+102 chars]'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Геннадий Сходненский',
+      'title': 'Xiaomi позаботится о природе России',
+      'description': 'Компания Xiaomi объявила о сотрудничестве с Всемирным фондом дикой природы (WWF). Об этом «Ленте.ру» рассказал представитель технологической компании. По его словам, Xiaomi будет переводить по тысяче рублей для заботы об окружающей среде с каждого проданного …',
+      'url': 'https://lenta.ru/news/2021/02/21/xiaomi/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/02/20/18/20210220180355169/share_d4166c2ac4000ee4f6fe25589c180724.jpg',
+      'publishedAt': '2021-02-21T09:12:50Z',
+      'content': 'Xiaomi (WWF). «.» .\r\n, Xiaomi Mi 10T, 21 21 . .\r\n , , , .\r\n« WWF. Xiaomi. , , », Xiaomi .\r\nXiaomi Mi 10T \r\n Xiaomi Mi 10T 2020 . : Mi 10T Mi 10T Pro. 6,67- IPS- c 24001080 144 . 20- .\r\n Snapdragon 86… [+254 chars]'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Марк Львов',
+      'title': 'Xiaomi раскрыла планы на 2021 год',
+      'description': 'Xiaomi сконцентрируется на создании устройств для умного дома. Топ-менеджер китайской корпорации заявил, что 2021 год будет годом «интернета вещей». В этой связи Xiaomi сделает акцент на выпуске продуктов для умного дома, особенно на рынке Китая — очистителей…',
+      'url': 'https://lenta.ru/news/2021/02/17/xiaomi/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/02/17/12/20210217122152932/share_fa42a9ef3b2fe0f87c66339aa8011996.jpg',
+      'publishedAt': '2021-02-17T17:46:45Z',
+      'content': 'Xiaomi . (Lu Weibing) , GizmoChina.\r\n- , 2021 « » (Internet of Things, IoT). Xiaomi , . , Xiaomi , .\r\n , Xiaomi. , , , « » , .\r\n Xiaomi , . , .\r\n Xiaomi Mail.Ru Group. , , «», , . «» , , Xiaomi.'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Александра Максимченко',
+      'title': 'В США временно сняли запрет на сотрудничество с Xiaomi',
+      'description': 'Федеральный суд США временно снял запрет на сотрудничество с китайской компанией Xiaomi, которая ранее попала в черный список Вашингтона. Судья Рудольф Контрерас (Rudolph Contreras) счел недоказанными обвинения в том, что из-за китайской компании национальная…',
+      'url': 'https://lenta.ru/news/2021/03/13/xiaomi/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/03/13/08/20210313080309289/share_9e308cf1b79a3a465406ae637b888003.jpg',
+      'publishedAt': '2021-03-13T05:18:58Z',
+      'content': 'Xiaomi, . Reuters.\r\n (Rudolph Contreras) , - . .\r\n Xiaomi . , .\r\n Xiaomi , . . Xiaomi, .\r\n , , , - , .'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Марк Львов',
+      'title': 'Предсказан дефицит смартфонов',
+      'description': 'В Китае обратили внимание на предпосылки дефицита смартфонов. О сильной нехватке микрочипов заявил руководитель Xiaomi Лу Вейбин (Lu Weibing). По его словам, необходимых для создания смартфонов процессоров нет в наличии, что тормозит производство гаджетов. По…',
+      'url': 'https://lenta.ru/news/2021/03/03/gde_smartphone/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/03/02/18/20210302181511804/share_83ca5a406de9cdd14d695879093644d7.jpg',
+      'publishedAt': '2021-03-03T11:41:00Z',
+      'content': '. ITHome.\r\n Xiaomi (Lu Weibing). , , . Realme, , . , Qualcomm .\r\n, Qualcomm 30 . CSR Bluetooth 33 . .\r\n , 2021 . . Huawei, Oppo, vivo OnePlus .\r\n , . .\r\nBloomberg . , .'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Марк Львов',
+      'title': 'Предсказан дефицит смартфонов Samsung',
+      'description': 'В 2021 году Samsung может заметно сократить производство смартфонов. Qualcomm, которая является одним из лидеров на рынке полупроводников, не может поставить Samsung необходимое количество процессоров. Спрос на чипы Qualcomm резко вырос в последние месяцы. По…',
+      'url': 'https://lenta.ru/news/2021/03/16/samsung_phones/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/03/15/11/20210315114536478/share_85944e3a2b546508118ed649b660b431.jpg',
+      'publishedAt': '2021-03-16T06:16:05Z',
+      'content': '2021 Samsung . Reuters.\r\nQualcomm, , Samsung . . Qualcomm , - .\r\n, , Snapdragon 888. , - Samsung . Samsung, , . Qualcomm , .\r\n« - », Qualcomm (Cristiano Amon) . Reuters , . , STMicroelectronics, , 14… [+118 chars]'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Платон Щукин',
+      'title': 'Китайскому конкуренту Tesla дали денег',
+      'description': 'Власти Китая дали денег производителю электромобилей Xpeng Motors, которого называют конкурентом Tesla. От правительства южной китайской провинции Гуандун компания получила 500 миллионов юаней (76,9 миллиона долларов). По словам производителя, эти деньги нужн…',
+      'url': 'https://lenta.ru/news/2021/03/15/xpeng/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/03/15/13/20210315130415676/share_56f325976928425ad02757c54d8561f4.jpg',
+      'publishedAt': '2021-03-15T10:16:00Z',
+      'content': 'Xpeng Motors, Tesla. 500 (76,9 ), CNBC. , « ».\r\n- Xpeng , . .\r\nXpeng . IPO «» , 99,7 15 . 1,5 . Xpeng 1,7 , Alibaba Xiaomi Corp.\r\n 2021- Xpeng . , Navigation Guided Pilot (NGP), P7 , , .\r\nXpeng . Xpe… [+32 chars]'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Марк Львов',
+      'title': 'Xiaomi представила Mi\xa010S',
+      'description': 'Xiaomi презентовала смартфон Mi\xa010S. Устройство входит в линейку Mi\xa010, ведущий флагман которой был представлен в феврале 2020 года. Девайс базируется на чипе Snapdragon 870. Стоимость базовой версии Mi\xa010S, имеющей 8 гигабайт оперативной и 128 гигабайт встро…',
+      'url': 'https://lenta.ru/news/2021/03/11/mi10s/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/03/10/16/20210310164925336/share_f756cfaae2509357335e9663ed378ff0.jpg',
+      'publishedAt': '2021-03-11T10:57:00Z',
+      'content': 'Xiaomi Mi\xa010S. GSM\xa0Arena.\r\n Mi\xa010, 2020 . 6,67- AMOLED- 23401080 . HDR10+ 90 . 20- -. Snapdragon 870.\r\nXiaomi\xa0Mi\xa010S LPDDR5 8 12 . 128 256 UFS3.0. 4780 - 33 . Android\xa011 MIUI\xa012.\r\nMi\xa010S . 108 , 13, … [+113 chars]'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Марк Львов',
+      'title': 'Показаны внутренности Xiaomi\xa0Mi\xa011',
+      'description': 'Актуальный флагман Xiaomi можно разобрать с помощью одной отвертки. Разобравшие смартфон Xiaomi специалисты заметили, что задняя крышка устройства снимается гораздо легче, чем у предыдущих девайсов компании. По итогам теста Xioami\xa0Mi\xa011 получил от iFixit 4 из…',
+      'url': 'https://lenta.ru/news/2021/03/16/mi11_teardown/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/03/15/12/20210315125421476/share_371f9a9b63416c10261e62853b42b5ac.jpg',
+      'publishedAt': '2021-03-16T15:52:00Z',
+      'content': 'Xiaomi . iFixit, .\r\n Xiaomi , , . , , . , , , .\r\n, . Mi\xa011 , , . , .\r\n iFixit , , , . , , . Xioami\xa0Mi\xa011 iFixit 4 10 .\r\n Xiaomi\xa0Mi\xa011 2020 . 6,81- OLED- 2K, Qualcomm Snapdragon\xa0888, 128 , 108, 13 5 .… [+11 chars]'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Марк Львов',
+      'title': 'Рассекречены характеристики бюджетного флагмана Xiaomi',
+      'description': 'Xiaomi готовит недорогую версию флагмана Mi\xa011. Судя по названию, аппарат станет бюджетной версией представленного в конце 2020 года флагмана Mi\xa011. Также ожидается 4G-версия телефона. Смартфон получит актуальную операционную систему Android\xa011. Сроки выхода …',
+      'url': 'https://lenta.ru/news/2021/03/05/mi11lite/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/03/04/12/20210304122434500/share_e91c7f90b21b03fe0d4f5dea67d1dd34.jpg',
+      'publishedAt': '2021-03-05T07:54:29Z',
+      'content': 'Xiaomi Mi\xa011. MySmartPrice.\r\nGoogle\xa0Play. Xiaomi\xa0Mi\xa011\xa0Lite\xa05G M2101K9G. , 2020 Mi\xa011. 4G- . , Snapdragon\xa0765G .\r\n , 1080x2400 440 . Android\xa011 MIUI\xa012.\r\n . , Google\xa0Play , .\r\n , Mi\xa011\xa0Lite IPS- 120 … [+15 chars]'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Марк Львов',
+      'title': 'Раскрыты новые смартфоны Xiaomi для России',
+      'description': 'В ближайшее время Xiaomi выпустит для России как минимум пять смартфонов. Под собственным брендом Xiaomi выпустит упрощенную версию вышедшего в конце 2020 года флагмана Mi\xa011. «Убийцы флагманов» Redmi\xa0K40, K40\xa0Pro и K40\xa0Pro+ появятся в России под названиями P…',
+      'url': 'https://lenta.ru/news/2021/03/05/xiaomiforrus/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/03/03/11/20210303115027370/share_d30266835a61b3f032c8a3c0378e6fe2.jpg',
+      'publishedAt': '2021-03-04T21:12:09Z',
+      'content': 'Xiaomi . TwitterXiaomi\xa0Firmware\xa0Updater.\r\n , MIUI , . , , , , . Xiaomi 2020 Mi\xa011, Mi\xa011\xa0Lite. 4G 5G.\r\nXiaomi Redmi, K40, . Poco. , Redmi\xa0K40, K40\xa0Pro K40\xa0Pro+ Poco\xa0X3, X3\xa0Pro X3\xa0Pro+ .\r\n Xiaomi\xa0Mi\xa01… [+141 chars]'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Марк Львов',
+      'title': 'Xiaomi возглавила рынок смартфонов в России',
+      'description': 'Xiaomi и Samsung заняли лидирующие позиции на рынке смартфонов в России. В отчете говорится, что доля Xiaomi в четвертом квартале 2020 года на российском рынке составила 31 процент. На втором и третьем местах оказались Samsung и Apple, которые заняли 27 и 15,…',
+      'url': 'https://lenta.ru/news/2021/02/18/xiaomi_top/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/02/17/17/20210217170543742/share_7755833127914b33ec6cc3493275baf0.jpg',
+      'publishedAt': '2021-02-18T09:28:00Z',
+      'content': 'Xiaomi Samsung . , Counterpoint\xa0Research.\r\n , Xiaomi 2020 31 . , 19,2 . Samsung Apple, 27 15,5 . Huawei Realme.\r\n , Xiaomi , 11 . , - , 2020 , -, , 34 35 . , Xiaomi, Samsung Apple.\r\n, . , iPhone\xa012, … [+200 chars]'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Марк Львов',
+      'title': 'Apple обошла Samsung по продажам смартфонов',
+      'description': 'Apple обогнала Samsung по продажам смартфонов впервые за последние четыре года. За 2020 год продажи Apple выросли на 14,9 процента в годовом исчислении. Вместе с этим число поставок телефонов от одного из главных конкурентов американской корпорации — Samsung …',
+      'url': 'https://lenta.ru/news/2021/02/24/apple_top/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/02/24/14/20210224141537951/share_4b03804fabad6821ed38c6b9f3f384f8.jpg',
+      'publishedAt': '2021-02-24T11:33:00Z',
+      'content': 'Apple Samsung . 9to5mac Gartner.\r\n , Apple 2020 14,9 . Samsung 11,8 . 2020 Apple 3,3 , Samsung 14,6 .\r\n, Apple Samsung 2016 . iPhone\xa07.\r\nSamsung . - Xiaomi, Oppo Vivo. .\r\n Gartner, 2020 5,4 . 12,5 . … [+77 chars]'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Марк Львов',
+      'title': 'Названы самые надежные смартфоны',
+      'description': 'Владелец сервисного центра назвал iPhone смартфонами, которые чаще всего приходится ремонтировать. В разговоре с журналистами мастер, который восемь лет занимается ремонтом техники, заметил, что чаще всего его компании приходится иметь дело с iPhone. Далее ра…',
+      'url': 'https://lenta.ru/news/2021/03/02/smartphones/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/03/02/11/20210302115727805/share_2bb8792414d34f0592eba3696f61a94f.jpg',
+      'publishedAt': '2021-03-02T16:06:28Z',
+      'content': 'iPhone , . «».\r\n , , , iPhone. 20 . , , Apple , , , iPhone .\r\nSamsung, 15 , Huawei. -4 Xiaomi. « », .\r\n , . , iPhone\xa06 5-6 . .\r\n , - , iPhone , . , , : « : ». , iPhone\xa012\xa0Pro\xa0Max «» 70 .\r\n Counterpoi… [+45 chars]'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Марк Львов',
+      'title': 'Названы лучшие беспроводные наушники',
+      'description': 'Специалисты «Роскачества» определили лучшие беспроводные наушники. Самый высокий балл в рейтинге получили полноразмерные наушники Apple\xa0AirPods\xa0Max — 3,73 балла. Специалисты подчеркнули привлекательный дизайн гарнитуры, систему активного шумоподавления AirPod…',
+      'url': 'https://lenta.ru/news/2021/03/01/best_tws/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/03/01/17/20210301170210139/share_1694583b71a964a33198c9f533b88c23.jpg',
+      'publishedAt': '2021-03-02T05:00:15Z',
+      'content': '«» . -, «.».\r\n Apple\xa0AirPods\xa0Max 3,73 . , , . AirPods\xa0Max .\r\nApple 3,55 . . , (DSP), - AirPods . Apple : 22 .\r\n Bose\xa0QuietComfort\xa0Earbuds, , . -3 Huawei Freebuds Pro. 15 , , Android- Huawei.\r\n Belkin… [+233 chars]'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Марк Львов',
+      'title': 'Представлен «убийца флагманов» от Xiaomi',
+      'description': 'Дочерняя компания Xiaomi Redmi анонсировала линейку смартфонов K40. Представлено три устройства — Redmi\xa0K40, K40\xa0Pro и K40\xa0Pro+. Топовые модели серии получили флагманский чип Snapdragon 888, тройную камеру с поддержкой записи видео в разрешении 8K. Стоимость …',
+      'url': 'https://lenta.ru/news/2021/02/26/redmik40/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/02/26/11/20210226111150397/share_baf9b165be1f86e7596a9676ac16cf4e.jpg',
+      'publishedAt': '2021-02-26T17:51:00Z',
+      'content': 'Xiaomi Redmi K40. GizmoChina .\r\n Redmi\xa0K40, K40\xa0Pro K40\xa0Pro+. 6,67- Super\xa0AMOLED 1080x2400 , 120 HDR10+. Snapdragon 870 5G, 6 128 , 48, 8 5 4K-. 4520 -.\r\nRedmi\xa0K40\xa0Pro Snapdragon 888 64, 8 5 4K-. « »… [+149 chars]'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Марк Львов',
+      'title': 'Названы характеристики смартфона Xiaomi для геймеров',
+      'description': 'Xiaomi выпустит геймерский смартфон, который будет доступен по демократичной цене. Топ-менеджер компании рассказал в своих соцсетях, что дочерний бренд Redmi представит игровой смартфон. Вейбин раскрыл информацию о том, что девайс получит флагманский процессо…',
+      'url': 'https://lenta.ru/news/2021/03/05/redmi_game/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/03/04/13/20210304131151796/share_4043df6c67ddac0d05b9e3e837b9a0e0.jpg',
+      'publishedAt': '2021-03-05T09:34:55Z',
+      'content': 'Xiaomi , . MyDrivers Xiaomi (Lu Weibing).\r\n- , Redmi . , Dimensity 1200, . , , Cortex-A78 3000 . MediaTek HyperEngine 3.0, .\r\n « » . , . AMOLED- Samsung. , , « ».\r\n . , Redmi, Xiaomi, . 2019 2020- 1,… [+22 chars]'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Марк Львов',
+      'title': 'Назван самый популярный iPhone на вторичном рынке',
+      'description': 'Представленный в 2018 году смартфон Apple оказался самым популярным девайсом на вторичном рынке. По данным площадки за 2020 год, пользователи чаще продавали iPhone, чем устройства на базе Android. Самым востребованным подержанным телефоном оказался iPhone\xa0Xs,…',
+      'url': 'https://lenta.ru/news/2021/02/17/iphone_bu/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/02/16/12/20210216125054504/share_2a0c0c263631c77a4898bd102940a75e.jpg',
+      'publishedAt': '2021-02-17T08:26:00Z',
+      'content': '2018 Apple . «».\r\n 2020 , iPhone, Android. iPhone\xa0Xs, 55 . iPhone\xa011\xa0Pro, 18 . , Xs iPhone\xa0Xs\xa0Max. 15 . -4 iPhone\xa011\xa0Pro\xa0Max, 12 .\r\n«» 2020 , Apple. iPhone\xa012. 90 trade-in iPhone\xa0Xs, Xs\xa0Max, 11\xa0Pro 1… [+121 chars]'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Марк Львов',
+      'title': 'Перечислены лучшие недорогие смартфоны',
+      'description': 'Смартфоны Samsung, Apple, OnePlus и других брендов попали в топ рекомендуемых к покупке устройств. В рейтинг попал Samsung\xa0Galaxy\xa0A32 — версия смартфона с 128 гигабайтами встроенной памяти оценена на рынке примерно в 22 тысячи рублей. Realme\xa07\xa0Pro был отмечен…',
+      'url': 'https://lenta.ru/news/2021/03/16/best_phones/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/03/16/11/20210316112324745/share_7fb19101b33af72c68849eabb98797b6.jpg',
+      'publishedAt': '2021-03-16T17:36:25Z',
+      'content': 'Samsung, Apple, OnePlus . International Data Corporation (IDC).\r\n , , , 20-30 . , 2021 363 27,4 . , .\r\nSamsung\xa0Galaxy\xa0A32 128 22 . , 90 . Xiaomi\xa0Poco\xa0X3, 21 , , .\r\nOppo\xa0Reno\xa04\xa0Lite, 23 , « », Mediate… [+170 chars]'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Борис Бритвин',
+      'title': 'Китай нанес новый удар по основателю Alibaba',
+      'description': 'Власти Китая нанесли новый удар по основателю и владельцу Alibaba Джеку Ма, удалив разработанный компанией браузер из нескольких местных магазинов приложений. UC Browser уже недоступен в магазинах приложений с устройств сразу нескольких производителей, среди …',
+      'url': 'https://lenta.ru/news/2021/03/16/uc/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/03/16/19/20210316194819543/share_58e96caadaef5ec06c5346da65ec4718.jpg',
+      'publishedAt': '2021-03-16T17:42:32Z',
+      'content': 'Alibaba, , CNBC.\r\nUC Browser , Huawei Xiaomi. Samsung . UC Browser Apple App Store.\r\n , -, CCTV. UC Browser .\r\n Alibaba , . , . « , », .\r\n , . IPO ( ) Ant Group, , .\r\n , . , , .'
+    },
+    {
+      'source': {
+        'id': 'lenta',
+        'name': 'Lenta'
+      },
+      'author': 'Марк Львов',
+      'title': 'Xiaomi выпустит автомобиль',
+      'description': 'Xiaomi может выпустить собственный автомобиль в ближайшие годы. Несколько источников в корпорации рассказали, что топ-менеджеры Xiaomi изучают возможность выхода на автомобильный рынок. Еще один близкий к топ-менеджменту Xiaomi источник рассказал, что корпора…',
+      'url': 'https://lenta.ru/news/2021/02/24/xiaomicar/',
+      'urlToImage': 'https://icdn.lenta.ru/images/2021/02/20/13/20210220135853993/share_527f9f3a63f03f49858bcc161b8ce375.jpg',
+      'publishedAt': '2021-02-24T07:00:53Z',
+      'content': 'Xiaomi . Donews.\r\n , - Xiaomi . , , .\r\n, (Lei Jun). Xiaomi , , .\r\n - Xiaomi , , , , . , , . , Xiaomi , , , Baidu.\r\n , , . Xiaomi , 2021 2025 .\r\n . Xiaomi 6,424 , 30,65 .\r\n, Hyundai Nissan, Apple , . … [+15 chars]'
+    }
+  ]
+}
