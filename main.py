@@ -23,9 +23,6 @@ xiaomi_news = response.json()
 print(sorted(xiaomi_news.keys()))  # посмотреть ключи ответа сервера
 print(xiaomi_news['articles'])
 
-df = pd.DataFrame(xiaomi_news['articles'])
-print(df)
-
 ######
 
 
